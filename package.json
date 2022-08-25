@@ -1,0 +1,20 @@
+{
+  "name": "js-list-app",
+  "version": "1.0.0",
+  "description": "Its a simple Javascript DOM App where We can Add a item,delete a item also search the items",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taijul52/js-list-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taijul52/js-list-app/issues"
+  },
+  "homepage": "https://github.com/Taijul52/js-list-app#readme"
+}
